@@ -1,0 +1,6 @@
+[
+  "api_test.py::test_api_all_posts",
+  "api_test.py::test_api_post",
+  "tests/api_test.py::test_api_all_posts",
+  "tests/api_test.py::test_api_post"
+]

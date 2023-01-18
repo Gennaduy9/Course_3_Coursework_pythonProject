@@ -1,0 +1,7 @@
+{
+  "tests/api_test.py::test_api_all_posts": true,
+  "tests/api_test.py::test_api_post": true,
+  "api_test.py": true,
+  "api_test.py::test_api_all_posts": true,
+  "api_test.py::test_api_post": true
+}
